@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/msezerberker.github.io/static/css/main.b5939b05.css",
+    "main.js": "/msezerberker.github.io/static/js/main.ba561769.js",
+    "static/js/787.128fc6e9.chunk.js": "/msezerberker.github.io/static/js/787.128fc6e9.chunk.js",
+    "static/media/helvetica-neu.ttf": "/msezerberker.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/msezerberker.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/msezerberker.github.io/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/msezerberker.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/msezerberker.github.io/index.html",
+    "main.b5939b05.css.map": "/msezerberker.github.io/static/css/main.b5939b05.css.map",
+    "main.ba561769.js.map": "/msezerberker.github.io/static/js/main.ba561769.js.map",
+    "787.128fc6e9.chunk.js.map": "/msezerberker.github.io/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5939b05.css",
+    "static/js/main.ba561769.js"
+  ]
+}
